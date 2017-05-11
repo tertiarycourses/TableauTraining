@@ -1,5 +1,5 @@
 # Tableau Essential Training
-## by [Tertiary Infotech Pte. Ltd] (https://www.tertiarycourses.com.sg/)
+## by [Tertiary Infotech Pte. Ltd](https://www.tertiarycourses.com.sg/)
 
 These are the exercise files used for [Tableau Essential Training](https://www.tertiarycourses.com.sg/tableau-9-essential-training.html) course. 
 
